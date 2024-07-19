@@ -3,3 +3,5 @@ def number():
 for i in range(0,6):
   print(i)
   
+if __name__ == "__main__":
+  number()
